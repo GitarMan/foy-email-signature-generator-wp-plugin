@@ -14,7 +14,7 @@ See `foy-email-signature-generator/readme.txt` for Changelog
 
 ## Screenshots ##
 **Usage Example: Default Form Values**
-![alt text](https://github.com/GitarMan/foy-email-signature-generator-wp-plugin/screencapture-email-signature-generator-1.png "Usage Example: Default Form Values")
+![Usage Example: Default Form Values](https://raw.githubusercontent.com/GitarMan/foy-email-signature-generator-wp-plugin/master/screencapture-email-signature-generator-1.png "Usage Example: Default Form Values")
 
 **Usage Example: All Form Values**
-![alt text](https://github.com/GitarMan/foy-email-signature-generator-wp-plugin/screencapture-email-signature-generator-2.png "Usage Example: All Form Values")
+![Usage Example: All Form Values](https://raw.githubusercontent.com/GitarMan/foy-email-signature-generator-wp-plugin/master/screencapture-email-signature-generator-2.png "Usage Example: All Form Values")
